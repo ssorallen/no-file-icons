@@ -1,0 +1,13 @@
+{
+  "name": "no-file-icons",
+  "version": "1.0.0",
+  "description": "Hides file icons in the file tree",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ssorallen/no-file-icons"
+  },
+  "bugs": {
+    "url": "https://github.com/ssorallen/no-file-icons/issues"
+  },
+  "license": "MIT"
+}
