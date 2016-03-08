@@ -7,14 +7,14 @@ mind is freed from the shackles of icon overload.
 
 ## Screenshots
 
-Atom Dark:
-![](https://raw.githubusercontent.com/ssorallen/no-file-icons/master/no-file-icons-atom-dark.png)
+Atom Dark:<br />
+<img src="https://raw.githubusercontent.com/ssorallen/no-file-icons/master/no-file-icons-atom-dark.png" height="384" width="214">
 
-Atom Light:
-![](https://raw.githubusercontent.com/ssorallen/no-file-icons/master/no-file-icons-atom-light.png)
+Atom Light:<br />
+<img src="https://raw.githubusercontent.com/ssorallen/no-file-icons/master/no-file-icons-atom-light.png" height="384" width="214">
 
-One Dark:
-![](https://raw.githubusercontent.com/ssorallen/no-file-icons/master/no-file-icons-one-dark.png)
+One Dark:<br />
+<img src="https://raw.githubusercontent.com/ssorallen/no-file-icons/master/no-file-icons-one-dark.png" height="384" width="214">
 
-One Light:
-![](https://raw.githubusercontent.com/ssorallen/no-file-icons/master/no-file-icons-one-light.png)
+One Light:<br />
+<img src="https://raw.githubusercontent.com/ssorallen/no-file-icons/master/no-file-icons-one-light.png" height="384" width="214">
